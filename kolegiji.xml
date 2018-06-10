@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="xmlt_tablica.xslt"?>
+
+<kolegiji>
+	<kolegij>
+		<naziv_predmeta>XML programiranje</naziv_predmeta>
+		<nositelj_kolegija>Alen Šimec</nositelj_kolegija>
+		<asistenti>D. Lozić, M. Žilić</asistenti>
+		<ects>6</ects>
+		<isvu>142120</isvu>
+	</kolegij>
+	<kolegij>
+		<naziv_predmeta>Baze podataka</naziv_predmeta>
+		<nositelj_kolegija>Tin Kramberger</nositelj_kolegija>
+		<asistenti>R. Kovačević, T. Kramberger</asistenti>
+		<ects>5</ects>
+		<isvu>85254</isvu>
+	</kolegij>
+	<kolegij>
+		<naziv_predmeta>Objektno orijentirano programiranje</naziv_predmeta>
+		<nositelj_kolegija>Goran Salamunićcar</nositelj_kolegija>
+		<asistenti>Jakob Gračanin</asistenti>
+		<ects>5</ects>
+		<isvu>63137</isvu>
+	</kolegij>
+	<kolegij>
+		<naziv_predmeta>Projektno programiranje</naziv_predmeta>
+		<nositelj_kolegija>Mia Čarapina</nositelj_kolegija>
+		<asistenti>Mia Čarapina</asistenti>
+		<ects>3</ects>
+		<isvu>155627</isvu>
+	</kolegij>
+	<kolegij>
+		<naziv_predmeta>Uvod u mreže računala</naziv_predmeta>
+		<nositelj_kolegija>Željko Širanović </nositelj_kolegija>
+		<asistenti>V. Tadić</asistenti>
+		<ects>4</ects>
+		<isvu>155630</isvu>
+	</kolegij>
+	<kolegij>
+		<naziv_predmeta>Tablični kalkulatori</naziv_predmeta>
+		<nositelj_kolegija>Danijela Pongrac </nositelj_kolegija>
+		<asistenti>D. Pongrac</asistenti>
+		<ects>3</ects>
+		<isvu>22416</isvu>
+	</kolegij>
+
+	<kolegij>
+		<naziv_predmeta>Poslovni engleski jezik za IT</naziv_predmeta>
+		<nositelj_kolegija>Biljana Stojaković</nositelj_kolegija>
+		<asistenti>Z. Vulelija</asistenti>
+		<ects>3</ects>
+		<isvu>75875</isvu>
+	</kolegij>
+	<kolegij>
+		<naziv_predmeta>Programiranje web aplikacija</naziv_predmeta>
+		<nositelj_kolegija>Alen Šimec</nositelj_kolegija>
+		<asistenti>P. Osterman</asistenti>
+		<ects>5</ects>
+		<isvu>85215</isvu>
+	</kolegij>
+
+</kolegiji>
